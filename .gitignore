@@ -1,1 +1,5 @@
 .starter/aclImdb_v1.tar.gz
+.venv/
+aclImdb/
+starter/aclImdb/
+.ipynb_checkpoints/
